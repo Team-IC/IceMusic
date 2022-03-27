@@ -1,5 +1,5 @@
-# Ic-Music
-Ic Music a Ad-free music website with millions of songs
+# Ice-Music
+Ice Music a Ad-free music website with millions of songs
 
-Ic Music Website => https://icmusic.herokuapp.com/
+Ice Music Website => under maintenance
 
